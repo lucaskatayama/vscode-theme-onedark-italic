@@ -1668,7 +1668,7 @@
         <key>name</key>
         <string>Storage type</string>
         <key>scope</key>
-        <string>storage.type.class.js,storage.type.function.js</string>
+        <string>storage.type.class.js,storage.type.function.js,keyword.control.export.js</string>
         <key>settings</key>
         <dict>
           <key>fontStyle</key>
