@@ -1677,6 +1677,19 @@
           <string>#9966b8</string>
         </dict>
       </dict>
+      <dict>
+        <key>name</key>
+        <string>VueJS Bind Variable</string>
+        <key>scope</key>
+        <string>variable.other.readwrite.js</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#9966b8</string>
+          <key>fontStyle</key>
+          <string>italic</string>
+        </dict>
+      </dict>
     </array>
     <key>uuid</key>
     <string>32bd64fa-d60a-4858-a5fc-5164cc49a2b8</string>
